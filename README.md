@@ -38,3 +38,4 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 - Proximity Analysis: Analyze the distance between high foot traffic areas and existing restaurants.
 
 ## Visualizations
+![Alt text](Heatmap.png)
