@@ -9,7 +9,7 @@ This project focuses on analyzing geospatial data using Python libraries such as
 2. [Data Sources](#data-sources)
 3. [Installation](#installation)
 4. [Features](#features)
-6. [Visualization Examples](#visualization-examples)
+6. [Visualization Examples](#Visualizations)
 
 ## Introduction
 In this project, we conduct a comprehensive geospatial analysis using pedestrian count data, restaurant locations, and borough boundaries of New York City. The analysis includes creating heatmaps, interactive maps, and density plots to visualize foot traffic patterns and identify high-potential areas for new retail stores.
