@@ -39,4 +39,5 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
 ## Visualizations
 ![Alt text](Heatmap.png)
+![Alt text](choropleth.png)
 ![Alt text](pedestrian_counts_animation_final.gif)
