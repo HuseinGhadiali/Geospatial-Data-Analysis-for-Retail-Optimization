@@ -1,4 +1,5 @@
 # Geospatial Data Analysis for Retail Optimization
+![Project Image](Geospatial-Data-Analysis-for-Retail-Optimization/Geospatial%20data%20analysis%20for%20retail%20optimization.png)
 
 ## Project Overview
 This project focuses on analyzing geospatial data using Python libraries such as GeoPandas and Folium. The goal is to map customer distributions, store locations, and traffic flows to identify optimal locations for new retail stores in New York City. By visualizing pedestrian counts and restaurant locations, we aim to provide actionable insights for optimizing store locations and marketing strategies.
