@@ -38,6 +38,9 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 - Proximity Analysis: Analyze the distance between high foot traffic areas and existing restaurants.
 
 ## Visualizations
-![Alt text](Heatmap.png)
-![Alt text](choropleth.png)
-![Alt text](pedestrian_counts_animation_final.gif)
+### Interactive Map for [Manhattan]
+[Interactive Map](https://huseinghadiali.github.io/Geospatialwebsitehost/index.html)
+
+![Heatmap](Heatmap.png)
+![Choropleth](choropleth.png)
+![Pedestrian Counts Animation](pedestrian_counts_animation_final.gif)
