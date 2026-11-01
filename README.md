@@ -9,7 +9,7 @@ This project focuses on analyzing geospatial data using Python libraries such as
 2. [Data Sources](#data-sources)
 3. [Installation](#installation)
 4. [Features](#features)
-6. [Visualization Examples](#Visualizations)
+5. [Visualizations](#visualizations)
 
 ## Introduction
 In this project, we conduct a comprehensive geospatial analysis using pedestrian count data, restaurant locations, and borough boundaries of New York City. The analysis includes creating heatmaps, interactive maps, and density plots to visualize foot traffic patterns and identify high-potential areas for new retail stores.
@@ -22,14 +22,22 @@ In this project, we conduct a comprehensive geospatial analysis using pedestrian
 ## Installation
 To run this project locally, follow these steps:
 
-1. **Clone the Repository**:
+1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/geospatial-data-analysis.git
-   cd geospatial-data-analysis
-2. Create and Activate a Virtual Environment:
-python -m venv venv
-source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-3. Install the Required Dependencies
+   git clone https://github.com/HuseinGhadiali/Geospatial-Data-Analysis-for-Retail-Optimization.git
+   cd Geospatial-Data-Analysis-for-Retail-Optimization
+   ```
+2. **Create and activate a virtual environment**
+   ```sh
+   python -m venv venv
+   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+   ```
+3. **Install the dependencies and open the notebook**
+   ```sh
+   pip install geopandas folium matplotlib pandas shapely jupyter
+   jupyter notebook Gpd_Restaurant_Analysis.ipynb
+   ```
+   The generated interactive maps (heatmaps, cluster maps, borough maps) are saved to [`output/`](output/).
 
 ## Features
 - Heatmaps: Visualize pedestrian counts across different time periods.
